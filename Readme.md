@@ -20,6 +20,7 @@
 <a href="https://www.instagram.com/muhammad.ikhsan.52/" target = "_blank" >
   <img align="left" alt="Instagram" width="65px" src="https://img.icons8.com/nolan/64/instagram-new.png" />
 </a>
+<img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="..." onclick="window.open('https://www.instagram.com/muhammad.ikhsan.52/', '_blank');" />
 <br>
 <br />
 
